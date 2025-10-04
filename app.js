@@ -103,5 +103,5 @@ ex_icon.addEventListener("click", (evt) => {
     toCurr.value=temp;
     updateFlag(fromCurr);
     updateFlag(toCurr);
-    updateExchangeRate();
 })
+
